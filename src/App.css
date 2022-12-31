@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+}
+table{
+    border:0.5vw solid white;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+th,tr,td{
+    height:10vh;
+    border:0.005vw solid white;
+    color: white;
+}
+th{
+    color: brown;
+}
